@@ -31,7 +31,6 @@ header h1 {
   margin-left: 50px;
   font-weight: bold;
   font-size: 20pt;
-  padding: 5px;
 }
 
 .general #two #javagl_id {
@@ -40,4 +39,13 @@ header h1 {
   font-weight: normal;
   color: black;
   border-bottom: 1px solid black;
+}
+
+.general #two #message {
+  margin-left: 50px;
+  font-size: 12pt;
+  font-weight: bold;
+  color: gray;
+  display: block;
+  margin-top: 30px;
 }

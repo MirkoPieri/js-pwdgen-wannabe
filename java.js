@@ -12,3 +12,5 @@ passwordGenerated = nome + cognome + colorePreferito + "19";
 
 // definizione testo su div html
 document.getElementById('javagl_id').innerHTML=passwordGenerated;
+
+document.getElementById('message').innerHTML="Hai creato un (insicurissimo) password generator!";
